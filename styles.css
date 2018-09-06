@@ -91,3 +91,9 @@ footer a {
 		width:100%;
 	}
 }
+@media (max-width: 768px) {
+	#readable {
+		background: rgb(50,50,50);
+	}
+	
+}
